@@ -1,0 +1,23 @@
+Programming by Eric Chauvin.
+Version date: 2/1/2023
+
+Stack address: 00000034DDB7F1F4
+Starting RSA test.
+Bits size is: 24
+Making a prime.
+Got a probable prime.
+Making a prime.
+Got a probable prime.
+primeP:
+1268963
+primeQ:
+5668469
+FindFacSm found testFac: 
+1268963
+curve25519 prime is:
+57896044618658097711785492504343953926634992332820282019728792003956564819949
+As hex:
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFED
+Seconds: 0
+Finished test.
+End of main app.

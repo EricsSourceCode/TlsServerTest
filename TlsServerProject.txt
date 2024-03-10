@@ -1,0 +1,11 @@
+buildfile	\Eric\Main\TlsServer\BuildProj.bat
+executablefile	\Eric\Main\TlsServer\TlsServer.exe
+projectdirectory	\Eric\Main\TlsServer
+recentfile1	\Eric\Main\TlsServer\MainApp.h
+recentfile2	\Eric\Main\Docs\Notes.txt
+recentfile3	\Eric\Main\Network\EncryptTls.h
+recentfile4	\Eric\Main\Network\EncryptTls.cpp
+recentfile5	\Eric\Main\Network\TlsMainSrv.h
+recentfile6	\Eric\Main\Network\TlsMainSrv.cpp
+recentfile7	\Eric\Main\Network\TlsOuterRec.h
+recentfile8	\Eric\Main\Network\TlsOuterRec.cpp
